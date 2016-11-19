@@ -10,3 +10,12 @@
 [submodule "vim-mmarkdown"]
 	path = vim-mmarkdown
 	url = https://github.com/tanahiro/vim-mmarkdown.git
+[submodule "vim-quickhl"]
+	path = vim-quickhl
+	url = https://github.com/t9md/vim-quickhl.git
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align.git
+[submodule "tanahiro"]
+	path = tanahiro
+	url = git@github.com:tanahiro/vim_config.git
