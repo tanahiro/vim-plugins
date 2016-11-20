@@ -19,3 +19,6 @@
 [submodule "tanahiro"]
 	path = tanahiro
 	url = git@github.com:tanahiro/vim_config.git
+[submodule "indentLine"]
+	path = indentLine
+	url = https://github.com/Yggdroot/indentLine
